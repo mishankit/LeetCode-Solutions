@@ -47,16 +47,14 @@ x = - 13
 print(x% 10) # 7
 print(x // 10) # -2
 
- = - 13
+x = - 13
 print(x% -10) # -3
 print(x // 10) # -2
 
 x =  13
-
 print(x% 10) # 3
 print(x // 10) # 1
 
 x =  13
-
 print(x% -10) # -7
 print(x // 10) # 1
